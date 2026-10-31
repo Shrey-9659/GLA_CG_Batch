@@ -1,0 +1,94 @@
+How the Web Works	Web vs Internet; overview of websites, web applications and the role of browsers and servers
+"Client-Server Model
+URLs, HTTP and DNS"	"Client-server architecture; browser, web server and request-response cycle.
+URL structure; HTTP methods; status codes; DNS and domain name resolution"
+"Browser Rendering and DevTools
+HTML Fundamentals"	"Browser rendering pipeline; HTML/CSS parsing; DOM and CSSOM overview; DevTools basics
+HTML purpose; document structure; <!DOCTYPE>, <html>, <head>, <body> and basic elements"
+"HTML Elements and Attributes
+HTML Links and Images"	"Elements, opening/closing tags, attributes, comments, headings, paragraphs and text content
+Anchor element; absolute and relative URLs; href, target, rel; images and alt attribute"
+"HTML Lists
+Semantic HTML"	"Ordered lists, unordered lists, description lists; nested lists and practical use cases
+Semantic elements including header, nav, main, section, article, aside and footer; document structure"
+HTML Tables	Tables, rows, headers and cells; thead, tbody, tfoot, rowspan and colspan
+HTML Forms and Input	Forms; labels; text, email, password, number, radio, checkbox, select, textarea and button inputs
+CSS Fundamentals	Introduction to CSS; inline, internal and external CSS; CSS syntax and basic selectors
+CSS Selectors and Colors	Element, class, ID, attribute and grouping selectors; colors, backgrounds and basic styling
+"CSS Typography and Cascade
+CSS Box Model"	"Fonts, text properties, spacing; cascade, inheritance and specificity
+Content, padding, border and margin; width, height; box sizing and overflow"
+CSS Display and Positioning	Block, inline, inline-block; display property; position, top, right, bottom and left
+
+
+
+Surya Vardhan Singh - CG2 - Day Scholar - Boy
+Moksdha - CG1 - Hosteller - Girl
+Arnav Mishra - CG1 - Hosteller - Boy - 8707488233
+Srishti Rawat - CG2 - Day Scholar - Girl - 9762316375
+
+
+
+CG - 19th - 8-9
+
+43
+92
+44
+19
+39
+6
+36
+64
+55
+71
+10
+21
+2
+28
+46
+63
+40
+13
+85
+8
+3
+68
+49
+15
+7
+29
+27
+23
+48
+24
+69
+32
+9
+33
+54
+88
+59
+76
+84
+35
+81
+1
+87
+51
+22
+82
+57
+78
+65
+11
+30
+91
+79
+89
+70
+72
+73
+12
+86
+17
+80

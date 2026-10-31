@@ -1,0 +1,21 @@
+/* Universal Selector -  */
+*{
+    background-color: gray;
+    color: white;
+}
+/* ID Selector */
+#primary{
+    background-color: skyblue;
+}
+/* Class Selector */
+.secondary{
+    background-color: red;
+}
+/* Element Selector */
+h1{
+    background-color: purple;
+}
+/* Element Grouping */
+#primary, .secondary{
+    font-size: 48px;
+}

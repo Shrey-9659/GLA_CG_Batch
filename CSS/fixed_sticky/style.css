@@ -1,0 +1,9 @@
+.heading{
+    background-color: beige;
+    height: 100px;
+    width: 50%;
+    text-align: center;
+    padding: auto auto;
+    position: sticky;
+    top: 20vh;
+}

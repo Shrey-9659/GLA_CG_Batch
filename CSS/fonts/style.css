@@ -1,0 +1,25 @@
+*{
+    font-family: "Montserrat", sans-serif, Arial, Helvetica;
+}
+
+#one{
+    font-weight: 100;
+    font-size: 10px;
+}
+#two{
+    font-weight: 300;
+    font-size: 20px;
+}
+#three{
+    font-weight: 600;
+    font-size: 32px;
+}
+#four{
+    font-weight: 900;
+    font-size: 40px;
+}
+
+#line{
+    line-height: 25px;
+    letter-spacing: 16px;
+}
