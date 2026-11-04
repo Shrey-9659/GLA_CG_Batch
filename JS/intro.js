@@ -24,8 +24,4 @@ let name = "Shrey"
 // console.log(name)
 
 
-Krishnkant - 12615500252
-Aditya Kumar - 12615500042
-Mokshda - 12615500277
-Abhinav - 12615500017
-Gauravi Agrawal - 12615500188
+// https://github.com/Shrey-9659/GLA_CG_Batch
