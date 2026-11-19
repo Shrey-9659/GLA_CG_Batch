@@ -42,5 +42,3 @@ let myarr = [1,2,3,4,5,6,7,8,9,10]
 // console.log(myarr)
 // console.log(myarr.splice(3,5, "Hello", "World"))
 // console.log(myarr)
-
-// CG - 4Nov - 11-12
