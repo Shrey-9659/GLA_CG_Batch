@@ -269,6 +269,7 @@
 
 let mynum = 2
 console.log(mynum);
+
 (mynum % 2 == 0) ? 
 console.log("Even") : 
 console.log("Odd")
